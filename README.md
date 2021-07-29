@@ -13,8 +13,7 @@
 - 김민아 : 백엔드 및 디자인(5월 작업 종료)
 
 ## 접속
-
-https://adoring-heyrovsky-d172e9.netlify.app/
+서버문제로 임시 폐쇄
 
 ## 기능
 
