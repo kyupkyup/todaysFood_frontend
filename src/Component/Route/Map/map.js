@@ -108,7 +108,6 @@ export default function Map() {
               })
           }}
           onCenterChanged={debounce((center) => {
-            console.log('나')
             const distance = findRealDistance()
             if (center && distance) {
               setCenter({
